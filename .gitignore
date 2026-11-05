@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.Rhistory
+Rplots.pdf
+.RData
+.DS_Store
+.vscode/

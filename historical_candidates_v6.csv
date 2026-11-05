@@ -1,0 +1,95 @@
+year,player,position,goals,assists,won_balon_dor,goal_contributions,trophy_prestige_score,journalists_only_voting,season_based_period,is_MF,is_DF,is_GK
+2011,Lionel Messi,FW,53,24,1,77,14,0,0,0,0,0
+2011,Cristiano Ronaldo,FW,53,15,0,68,2,0,0,0,0,0
+2011,Xavi Hernandez,MF,7,20,0,27,14,0,0,1,0,0
+2012,Lionel Messi,FW,73,29,1,102,2,0,0,0,0,0
+2012,Cristiano Ronaldo,FW,60,15,0,75,6,0,0,0,0,0
+2012,Andres Iniesta,MF,7,15,0,22,2,0,0,1,0,0
+2013,Cristiano Ronaldo,FW,55,12,1,67,0,0,0,0,0,0
+2013,Lionel Messi,FW,60,20,0,80,6,0,0,0,0,0
+2013,Franck Ribery,FW,15,20,0,35,15,0,0,0,0,0
+2014,Cristiano Ronaldo,FW,51,11,1,62,10,0,0,0,0,0
+2014,Lionel Messi,FW,41,15,0,56,6,0,0,0,0,0
+2014,Manuel Neuer,GK,0,1,0,1,5,0,0,0,0,1
+2015,Lionel Messi,FW,58,27,1,85,16,0,0,0,0,0
+2015,Cristiano Ronaldo,FW,61,12,0,73,0,0,0,0,0,0
+2015,Neymar Jr,FW,39,17,0,56,16,0,0,0,0,0
+2016,Cristiano Ronaldo,FW,51,11,1,62,15,1,0,0,0,0
+2016,Lionel Messi,FW,41,18,0,59,8,1,0,0,0,0
+2016,Luis Suarez,FW,59,22,0,81,8,1,0,0,0,0
+2017,Cristiano Ronaldo,FW,42,12,1,54,14,1,0,0,0,0
+2017,Lionel Messi,FW,54,16,0,70,2,1,0,0,0,0
+2017,Neymar Jr,FW,28,16,0,44,2,1,0,0,0,0
+2018,Luka Modric,MF,3,5,1,8,14,1,0,1,0,0
+2018,Cristiano Ronaldo,FW,44,8,0,52,8,1,0,0,0,0
+2018,Mohamed Salah,FW,44,16,0,60,0,1,0,0,0,0
+2019,Lionel Messi,FW,51,22,1,73,6,1,0,0,0,0
+2019,Virgil van Dijk,DF,4,2,0,6,8,1,0,0,1,0
+2019,Cristiano Ronaldo,FW,28,11,0,39,5,1,0,0,0,0
+2021,Lionel Messi,FW,38,14,1,52,9,1,0,0,0,0
+2021,Robert Lewandowski,FW,48,10,0,58,5,1,0,0,0,0
+2021,Jorginho,MF,7,3,0,10,15,1,0,1,0,0
+2022,Karim Benzema,FW,44,15,1,59,14,1,1,0,0,0
+2022,Sadio Mane,FW,23,10,0,33,10,1,1,0,0,0
+2022,Robert Lewandowski,FW,50,9,0,59,5,1,1,0,0,0
+2023,Lionel Messi,FW,21,20,1,41,14,1,1,0,0,0
+2023,Erling Haaland,FW,52,9,0,61,16,1,1,0,0,0
+2023,Kylian Mbappe,FW,41,10,0,51,4,1,1,0,0,0
+2024,Rodri,MF,9,10,1,19,13,1,1,1,0,0
+2024,Vinicius Jr,FW,24,11,0,35,14,1,1,0,0,0
+2024,Jude Bellingham,MF,23,13,0,36,14,1,1,1,0,0
+2024,Kylian Mbappe,FW,44,10,0,54,4,1,1,0,0,0
+2024,Lautaro Martinez,FW,24,6,0,30,5,1,1,0,0,0
+2024,Lamine Yamal,FW,7,5,0,12,7,1,1,0,0,0
+2024,Toni Kroos,MF,2,5,0,7,14,1,1,1,0,0
+2024,Harry Kane,FW,44,12,0,56,0,1,1,0,0,0
+2024,Phil Foden,MF,27,12,0,39,7,1,1,1,0,0
+2024,Florian Wirtz,MF,18,20,0,38,7,1,1,1,0,0
+2024,Dani Olmo,MF,11,7,0,18,7,1,1,1,0,0
+2024,Ademola Lookman,FW,17,10,0,27,4,1,1,0,0,0
+2024,Nico Williams,FW,8,19,0,27,9,1,1,0,0,0
+2024,Granit Xhaka,MF,4,13,0,17,7,1,1,1,0,0
+2024,Federico Valverde,MF,5,7,0,12,14,1,1,1,0,0
+2024,Emiliano Martinez,GK,0,0,0,0,7,1,1,0,0,1
+2024,Martin Odegaard,MF,8,9,0,17,0,1,1,1,0,0
+2024,Hakan Calhanoglu,MF,9,6,0,15,5,1,1,1,0,0
+2024,Bukayo Saka,FW,16,9,0,25,0,1,1,0,0,0
+2024,Antonio Rudiger,DF,2,1,0,3,14,1,1,0,1,0
+2024,Ruben Dias,DF,1,1,0,2,6,1,1,0,1,0
+2024,William Saliba,DF,1,1,0,2,0,1,1,0,1,0
+2024,Cole Palmer,MF,22,11,0,33,0,1,1,1,0,0
+2024,Declan Rice,MF,7,8,0,15,0,1,1,1,0,0
+2024,Vitinha,MF,3,5,0,8,4,1,1,1,0,0
+2024,Alejandro Grimaldo,DF,10,15,0,25,7,1,1,0,1,0
+2024,Mats Hummels,DF,1,1,0,2,0,1,1,0,1,0
+2024,Artem Dovbyk,FW,24,2,0,26,0,1,1,0,0,0
+2025,Ousmane Dembele,FW,35,10,1,45,15,1,1,0,0,0
+2025,Lamine Yamal,FW,18,15,0,33,8,1,1,0,0,0
+2025,Vitinha,MF,10,9,0,19,15,1,1,1,0,0
+2025,Mohamed Salah,FW,29,18,0,47,6,1,1,0,0,0
+2025,Raphinha,FW,34,22,0,56,8,1,1,0,0,0
+2025,Achraf Hakimi,DF,9,12,0,21,15,1,1,0,1,0
+2025,Kylian Mbappe,FW,44,3,0,47,0,1,1,0,0,0
+2025,Cole Palmer,MF,15,13,0,28,2,1,1,1,0,0
+2025,Gianluigi Donnarumma,GK,0,0,0,0,15,1,1,0,0,1
+2025,Nuno Mendes,DF,3,8,0,11,15,1,1,0,1,0
+2025,Pedri,MF,7,15,0,22,8,1,1,1,0,0
+2025,Khvicha Kvaratskhelia,FW,8,7,0,15,15,1,1,0,0,0
+2025,Harry Kane,FW,39,8,0,47,5,1,1,0,0,0
+2025,Desire Doue,FW,15,17,0,32,15,1,1,0,0,0
+2025,Viktor Gyokeres,FW,54,13,0,67,5,1,1,0,0,0
+2025,Vinicius Jr,FW,24,20,0,44,0,1,1,0,0,0
+2025,Robert Lewandowski,FW,42,8,0,50,8,1,1,0,0,0
+2025,Scott McTominay,MF,16,6,0,22,5,1,1,1,0,0
+2025,Joao Neves,MF,6,7,0,13,15,1,1,1,0,0
+2025,Lautaro Martinez,FW,22,7,0,29,0,1,1,0,0,0
+2025,Serhou Guirassy,FW,29,8,0,37,0,1,1,0,0,0
+2025,Alexis Mac Allister,MF,6,7,0,13,6,1,1,1,0,0
+2025,Jude Bellingham,MF,8,5,0,13,0,1,1,1,0,0
+2025,Fabian Ruiz,MF,7,6,0,13,15,1,1,1,0,0
+2025,Denzel Dumfries,DF,9,6,0,15,0,1,1,0,1,0
+2025,Erling Haaland,FW,34,8,0,42,0,1,1,0,0,0
+2025,Declan Rice,MF,7,10,0,17,0,1,1,1,0,0
+2025,Virgil van Dijk,DF,4,2,0,6,6,1,1,0,1,0
+2025,Florian Wirtz,FW,18,16,0,34,0,1,1,0,0,0
+2025,Michael Olise,FW,21,28,0,49,5,1,1,0,0,0
